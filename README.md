@@ -1,2 +1,2 @@
 # TEST1
-1ST STEP OF LEARNING GIT
+1st step of learning git
